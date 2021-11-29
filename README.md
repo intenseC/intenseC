@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @intenseC
-- 👀 I’m interested in IOT, robotics, home/industrial automatiion etc
+- 👀 I’m interested in IOT, robotics, home/industrial automation etc
 - 🌱 I’m currently into a consumer electroncs design
 - 💞️ I’d collaborate on some cool embedded project
 - 📫 How to reach me:
